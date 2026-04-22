@@ -1,7 +1,5 @@
 import streamlit as st
-import pandas as pd
-
-# ---------------- PAGE CONFIG ----------------
+import pandas as  pd
 st.set_page_config(page_title="Subscription Dashboard", layout="wide")
 
 # ---------------- LOAD DATA ----------------
