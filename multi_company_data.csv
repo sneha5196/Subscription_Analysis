@@ -1,0 +1,1201 @@
+User_ID,Plan,Monthly_Fee,Country,Login_Count,Start_Date,End_Date,Company
+1,Premium,299,India,33,2023-10-27,,Amazon Prime
+2,Premium,199,UK,3,2023-08-25,2024-02-27,Netflix
+3,Standard,199,Canada,17,2023-04-18,2023-10-21,Hotstar
+4,Standard,499,UK,37,2023-03-23,,Amazon Prime
+5,Basic,499,UK,11,2023-03-05,,Netflix
+6,Basic,199,India,16,2023-06-14,2023-08-22,Hotstar
+7,Premium,299,Canada,27,2023-01-06,2023-03-19,Netflix
+8,Standard,299,USA,13,2023-10-10,2023-12-03,Hotstar
+9,Premium,299,USA,23,2023-08-19,2023-12-27,Amazon Prime
+10,Basic,199,UK,31,2023-12-25,,Amazon Prime
+11,Standard,199,USA,47,2023-07-22,,Amazon Prime
+12,Premium,499,USA,13,2023-06-10,,Hotstar
+13,Standard,199,USA,4,2023-09-13,2023-12-27,Hotstar
+14,Basic,199,Canada,41,2023-09-05,,Hotstar
+15,Basic,199,USA,11,2023-06-02,2023-11-21,Netflix
+16,Premium,299,Canada,11,2023-08-17,,Hotstar
+17,Basic,499,USA,43,2023-04-29,2023-07-15,Netflix
+18,Premium,499,India,37,2023-07-22,2023-11-23,Hotstar
+19,Premium,499,UK,49,2023-12-05,,Netflix
+20,Premium,199,Canada,57,2023-06-29,,Netflix
+21,Basic,199,USA,58,2023-03-09,,Hotstar
+22,Basic,299,USA,22,2023-08-22,,Netflix
+23,Standard,499,Canada,45,2023-04-06,,Amazon Prime
+24,Standard,299,India,15,2023-11-15,2024-01-01,Amazon Prime
+25,Standard,499,UK,10,2023-11-05,2023-12-25,Netflix
+26,Premium,299,India,47,2023-03-20,,Amazon Prime
+27,Standard,299,UK,6,2023-02-26,2023-03-29,Amazon Prime
+28,Premium,299,USA,43,2023-02-11,,Hotstar
+29,Basic,199,USA,4,2023-03-04,,Amazon Prime
+30,Premium,199,UK,24,2023-02-01,,Hotstar
+31,Premium,299,UK,39,2023-04-11,,Hotstar
+32,Standard,499,USA,6,2023-08-21,,Hotstar
+33,Premium,499,Canada,41,2023-04-30,,Amazon Prime
+34,Basic,199,UK,28,2023-06-23,2023-10-25,Netflix
+35,Standard,499,India,29,2023-06-03,,Hotstar
+36,Premium,199,USA,8,2023-06-16,2023-08-14,Hotstar
+37,Premium,499,USA,38,2023-01-23,2023-07-11,Amazon Prime
+38,Basic,299,India,3,2023-08-20,2024-01-27,Netflix
+39,Basic,199,India,49,2023-07-19,,Hotstar
+40,Premium,499,India,58,2023-04-08,2023-09-10,Amazon Prime
+41,Standard,499,USA,40,2023-02-07,2023-07-13,Amazon Prime
+42,Standard,499,UK,24,2023-03-31,,Hotstar
+43,Basic,199,USA,34,2023-12-12,,Amazon Prime
+44,Premium,299,India,15,2023-02-16,,Hotstar
+45,Standard,299,USA,21,2023-11-14,2024-02-16,Amazon Prime
+46,Basic,199,UK,45,2023-05-31,2023-10-01,Hotstar
+47,Premium,299,Canada,33,2023-10-07,,Amazon Prime
+48,Premium,299,USA,55,2023-05-16,,Netflix
+49,Standard,199,India,30,2023-03-27,,Hotstar
+50,Premium,199,UK,55,2023-05-04,,Hotstar
+51,Standard,499,USA,2,2023-02-22,,Amazon Prime
+52,Basic,199,India,11,2023-10-05,2024-01-22,Amazon Prime
+53,Standard,299,UK,40,2023-10-01,2023-12-17,Netflix
+54,Standard,199,UK,30,2023-03-13,2023-06-26,Amazon Prime
+55,Standard,199,UK,20,2023-05-15,2023-11-25,Hotstar
+56,Basic,299,UK,49,2023-09-19,,Hotstar
+57,Basic,199,USA,13,2023-06-20,,Hotstar
+58,Premium,199,Canada,51,2023-06-13,,Amazon Prime
+59,Premium,199,India,25,2023-05-10,,Netflix
+60,Premium,299,India,54,2023-04-09,2023-07-11,Hotstar
+61,Premium,199,India,36,2023-03-31,,Hotstar
+62,Premium,199,India,7,2023-12-06,2024-05-11,Amazon Prime
+63,Basic,299,UK,48,2023-03-13,,Hotstar
+64,Premium,299,USA,1,2023-06-21,2023-10-11,Amazon Prime
+65,Premium,499,UK,20,2023-03-05,,Amazon Prime
+66,Standard,199,UK,15,2023-04-30,,Hotstar
+67,Premium,499,India,50,2023-03-12,,Hotstar
+68,Standard,199,UK,52,2023-01-27,,Amazon Prime
+69,Premium,199,USA,17,2023-04-19,,Netflix
+70,Standard,299,UK,21,2023-05-17,2023-07-09,Netflix
+71,Basic,299,USA,11,2023-03-11,2023-07-04,Amazon Prime
+72,Standard,499,USA,57,2023-07-17,2023-11-07,Amazon Prime
+73,Premium,299,Canada,33,2023-02-05,,Amazon Prime
+74,Basic,299,USA,28,2023-01-06,,Amazon Prime
+75,Basic,199,USA,40,2023-08-11,2023-11-24,Hotstar
+76,Standard,299,Canada,47,2023-02-02,,Amazon Prime
+77,Standard,499,Canada,27,2023-10-10,,Amazon Prime
+78,Basic,199,India,57,2023-10-04,2024-03-28,Amazon Prime
+79,Premium,199,UK,40,2023-05-02,,Netflix
+80,Standard,299,USA,41,2023-08-21,,Netflix
+81,Premium,499,Canada,10,2023-11-16,2024-01-30,Hotstar
+82,Basic,499,USA,10,2023-08-30,,Amazon Prime
+83,Premium,499,India,39,2023-03-31,,Netflix
+84,Basic,299,UK,10,2023-09-20,,Netflix
+85,Premium,199,UK,33,2023-09-29,,Amazon Prime
+86,Basic,299,India,12,2023-06-21,,Amazon Prime
+87,Basic,199,UK,48,2023-07-11,2023-12-05,Netflix
+88,Basic,499,India,53,2023-03-14,2023-07-07,Amazon Prime
+89,Standard,199,UK,35,2023-09-09,,Netflix
+90,Premium,199,Canada,14,2023-03-08,,Netflix
+91,Standard,499,Canada,29,2023-03-28,,Amazon Prime
+92,Standard,299,India,26,2023-10-12,,Amazon Prime
+93,Standard,499,UK,21,2023-03-01,,Amazon Prime
+94,Basic,499,India,32,2023-01-16,,Amazon Prime
+95,Premium,199,India,33,2023-10-31,2024-02-10,Amazon Prime
+96,Premium,299,USA,55,2023-12-17,,Netflix
+97,Basic,199,Canada,14,2023-11-17,,Hotstar
+98,Premium,199,India,30,2023-10-23,2023-12-31,Netflix
+99,Premium,499,USA,53,2023-08-31,,Amazon Prime
+100,Basic,499,USA,17,2023-02-04,2023-07-26,Amazon Prime
+101,Basic,499,UK,47,2023-10-27,2024-02-29,Amazon Prime
+102,Basic,499,India,56,2023-11-20,2024-01-13,Netflix
+103,Standard,299,India,41,2023-09-16,2024-03-24,Amazon Prime
+104,Premium,499,India,26,2023-08-21,2023-11-13,Amazon Prime
+105,Basic,199,India,40,2023-09-23,,Hotstar
+106,Premium,199,USA,47,2023-11-28,,Netflix
+107,Premium,199,India,31,2023-01-01,2023-02-19,Netflix
+108,Standard,499,India,5,2023-01-24,,Amazon Prime
+109,Standard,499,UK,40,2023-09-13,,Netflix
+110,Basic,299,India,9,2023-01-25,2023-04-15,Netflix
+111,Premium,199,USA,15,2023-03-31,,Amazon Prime
+112,Standard,299,India,49,2023-05-30,,Netflix
+113,Basic,199,India,59,2023-06-07,2023-10-21,Hotstar
+114,Premium,499,USA,15,2023-04-20,,Netflix
+115,Basic,499,UK,5,2023-04-11,,Hotstar
+116,Standard,299,Canada,57,2023-01-23,,Amazon Prime
+117,Premium,299,India,52,2023-04-28,,Netflix
+118,Premium,199,UK,1,2023-03-31,2023-06-13,Hotstar
+119,Basic,199,India,38,2023-09-26,,Netflix
+120,Basic,499,USA,56,2023-02-10,2023-05-22,Amazon Prime
+121,Basic,499,Canada,56,2023-04-26,,Netflix
+122,Basic,499,India,15,2023-05-20,,Netflix
+123,Premium,199,UK,27,2023-06-19,,Hotstar
+124,Standard,199,India,52,2023-06-22,2023-12-07,Hotstar
+125,Premium,199,Canada,8,2023-04-25,,Netflix
+126,Premium,499,Canada,3,2023-02-02,2023-03-15,Hotstar
+127,Basic,299,India,20,2023-11-07,,Hotstar
+128,Basic,199,USA,32,2023-08-11,2023-11-16,Amazon Prime
+129,Standard,299,India,55,2023-11-16,2024-04-04,Netflix
+130,Basic,199,USA,22,2023-07-19,,Amazon Prime
+131,Premium,499,Canada,29,2023-09-04,,Amazon Prime
+132,Standard,499,Canada,1,2023-03-16,,Hotstar
+133,Premium,199,USA,12,2023-09-01,2023-12-20,Hotstar
+134,Premium,199,UK,47,2023-10-23,,Hotstar
+135,Basic,299,UK,19,2023-02-01,2023-08-15,Netflix
+136,Basic,199,India,11,2023-11-09,2024-01-02,Netflix
+137,Premium,499,UK,20,2023-03-24,,Hotstar
+138,Standard,499,UK,26,2023-02-01,,Netflix
+139,Premium,199,USA,40,2023-09-13,,Netflix
+140,Premium,299,India,43,2023-02-15,,Amazon Prime
+141,Standard,299,India,37,2023-05-28,,Amazon Prime
+142,Premium,299,UK,53,2023-12-18,,Amazon Prime
+143,Premium,299,USA,42,2023-08-07,,Netflix
+144,Premium,299,UK,4,2023-12-22,,Hotstar
+145,Standard,499,UK,54,2023-02-07,,Hotstar
+146,Basic,299,Canada,21,2023-02-09,,Hotstar
+147,Basic,299,USA,39,2023-06-15,,Hotstar
+148,Basic,299,USA,3,2023-06-30,2023-09-09,Hotstar
+149,Standard,299,UK,59,2023-10-28,2024-02-01,Netflix
+150,Basic,499,India,5,2023-01-17,2023-06-09,Hotstar
+151,Standard,499,India,51,2023-03-22,2023-06-18,Hotstar
+152,Standard,499,UK,22,2023-05-19,,Hotstar
+153,Standard,499,USA,57,2023-06-19,,Amazon Prime
+154,Standard,199,Canada,38,2023-09-15,,Netflix
+155,Premium,499,Canada,43,2023-03-07,2023-07-02,Amazon Prime
+156,Basic,299,India,47,2023-07-17,,Amazon Prime
+157,Premium,299,USA,9,2023-04-03,,Amazon Prime
+158,Standard,299,UK,56,2023-02-15,,Netflix
+159,Standard,199,UK,3,2023-10-04,,Netflix
+160,Basic,199,India,27,2023-08-31,,Netflix
+161,Standard,499,India,26,2023-08-15,,Amazon Prime
+162,Premium,499,Canada,39,2023-05-06,2023-09-05,Hotstar
+163,Basic,299,USA,5,2023-08-14,,Amazon Prime
+164,Premium,299,UK,34,2023-08-31,,Hotstar
+165,Basic,199,USA,43,2023-05-22,,Hotstar
+166,Standard,299,UK,56,2023-05-08,2023-09-10,Amazon Prime
+167,Basic,299,Canada,58,2023-11-18,2024-02-04,Netflix
+168,Basic,199,India,17,2023-07-12,2023-12-23,Netflix
+169,Basic,299,UK,19,2023-02-20,2023-07-01,Amazon Prime
+170,Basic,299,India,28,2023-06-16,,Netflix
+171,Basic,299,India,9,2023-10-01,,Amazon Prime
+172,Basic,299,USA,29,2023-10-07,,Hotstar
+173,Premium,199,UK,17,2023-09-29,2023-12-29,Amazon Prime
+174,Premium,199,USA,41,2023-04-14,2023-07-19,Hotstar
+175,Premium,499,UK,24,2023-04-17,,Hotstar
+176,Standard,499,UK,10,2023-12-02,2024-01-17,Amazon Prime
+177,Standard,499,India,13,2023-10-24,,Hotstar
+178,Standard,199,India,59,2023-09-01,,Netflix
+179,Basic,299,UK,57,2023-03-23,2023-05-09,Netflix
+180,Basic,499,India,13,2023-07-31,,Hotstar
+181,Basic,499,UK,35,2023-05-11,,Hotstar
+182,Basic,199,Canada,11,2023-01-07,,Netflix
+183,Premium,499,Canada,16,2023-08-01,,Netflix
+184,Basic,199,USA,27,2023-12-14,,Hotstar
+185,Premium,499,UK,14,2023-03-31,,Netflix
+186,Premium,199,UK,41,2023-12-12,2024-04-28,Netflix
+187,Premium,499,India,10,2023-05-13,,Amazon Prime
+188,Standard,199,India,38,2023-04-25,,Netflix
+189,Standard,499,UK,46,2023-08-01,2023-09-04,Netflix
+190,Basic,199,UK,22,2023-12-11,2024-04-01,Amazon Prime
+191,Standard,199,UK,28,2023-03-11,,Amazon Prime
+192,Standard,299,UK,53,2023-11-15,,Amazon Prime
+193,Premium,199,UK,34,2023-01-03,2023-06-02,Hotstar
+194,Premium,199,India,51,2023-06-18,,Hotstar
+195,Standard,199,Canada,16,2023-08-30,,Hotstar
+196,Basic,199,India,14,2023-01-29,,Netflix
+197,Basic,299,UK,51,2023-01-10,,Amazon Prime
+198,Basic,299,India,7,2023-11-21,2024-05-03,Netflix
+199,Premium,299,UK,30,2023-01-31,,Hotstar
+200,Standard,499,UK,5,2023-02-13,2023-07-19,Hotstar
+201,Premium,499,USA,35,2023-03-19,,Netflix
+202,Standard,299,India,15,2023-03-20,2023-05-18,Hotstar
+203,Standard,499,India,51,2023-09-28,,Netflix
+204,Premium,199,Canada,54,2023-01-15,2023-07-14,Amazon Prime
+205,Premium,499,UK,19,2023-08-19,,Amazon Prime
+206,Standard,199,India,19,2023-12-15,,Hotstar
+207,Premium,299,India,33,2023-06-01,2023-07-04,Hotstar
+208,Standard,199,India,39,2023-05-03,,Amazon Prime
+209,Standard,199,UK,39,2023-05-21,2023-08-06,Netflix
+210,Premium,499,USA,44,2023-06-26,,Hotstar
+211,Basic,499,USA,30,2023-08-27,,Hotstar
+212,Premium,299,UK,7,2023-08-20,,Hotstar
+213,Basic,299,USA,10,2023-10-27,,Netflix
+214,Standard,199,Canada,41,2023-09-05,2023-10-27,Amazon Prime
+215,Standard,499,UK,12,2023-01-31,,Amazon Prime
+216,Basic,299,UK,1,2023-01-08,,Hotstar
+217,Basic,199,USA,29,2023-01-09,2023-04-29,Amazon Prime
+218,Premium,199,Canada,46,2023-04-19,,Netflix
+219,Premium,499,UK,25,2023-07-09,,Hotstar
+220,Premium,199,USA,9,2023-03-12,,Hotstar
+221,Standard,499,UK,46,2023-02-07,,Amazon Prime
+222,Basic,199,UK,2,2023-08-17,2023-10-01,Amazon Prime
+223,Basic,199,USA,9,2023-05-10,,Amazon Prime
+224,Basic,299,India,7,2023-11-10,,Netflix
+225,Standard,499,UK,30,2023-05-19,2023-07-04,Hotstar
+226,Basic,299,India,17,2023-09-07,,Hotstar
+227,Standard,499,UK,13,2023-09-13,2023-10-29,Netflix
+228,Premium,499,UK,59,2023-08-20,,Amazon Prime
+229,Premium,499,Canada,43,2023-12-05,,Hotstar
+230,Standard,299,India,8,2023-07-13,,Amazon Prime
+231,Basic,299,UK,10,2023-11-12,2023-12-22,Amazon Prime
+232,Standard,299,India,1,2023-09-23,,Amazon Prime
+233,Standard,299,India,52,2023-03-16,,Amazon Prime
+234,Standard,299,USA,11,2023-10-25,,Hotstar
+235,Basic,199,UK,44,2023-05-02,,Netflix
+236,Standard,299,UK,46,2023-09-27,,Amazon Prime
+237,Premium,299,USA,24,2023-03-06,2023-04-10,Amazon Prime
+238,Standard,499,India,5,2023-11-17,2024-01-21,Amazon Prime
+239,Premium,199,UK,33,2023-04-25,,Netflix
+240,Premium,199,USA,31,2023-11-24,2024-05-02,Amazon Prime
+241,Premium,299,USA,46,2023-09-02,,Hotstar
+242,Standard,199,India,9,2023-10-02,,Amazon Prime
+243,Standard,499,USA,39,2023-10-22,,Netflix
+244,Basic,299,USA,51,2023-10-09,2023-12-28,Netflix
+245,Standard,199,USA,42,2023-08-14,2023-12-16,Amazon Prime
+246,Standard,199,USA,25,2023-11-06,,Amazon Prime
+247,Premium,299,UK,38,2023-08-17,,Amazon Prime
+248,Basic,199,USA,26,2023-12-16,,Hotstar
+249,Basic,299,UK,31,2023-11-11,,Amazon Prime
+250,Standard,199,Canada,7,2023-06-17,2023-10-13,Netflix
+251,Basic,199,UK,5,2023-08-28,2023-11-11,Amazon Prime
+252,Standard,299,USA,22,2023-12-16,,Netflix
+253,Basic,299,Canada,25,2023-06-03,2023-11-01,Amazon Prime
+254,Premium,299,India,44,2023-04-14,2023-05-16,Amazon Prime
+255,Premium,499,India,40,2023-11-05,,Amazon Prime
+256,Standard,299,India,27,2023-08-03,,Amazon Prime
+257,Standard,299,UK,2,2023-11-16,,Netflix
+258,Basic,499,USA,47,2023-01-20,,Amazon Prime
+259,Basic,199,USA,5,2023-07-09,,Netflix
+260,Basic,299,Canada,13,2023-09-16,,Netflix
+261,Basic,199,India,35,2023-02-05,,Hotstar
+262,Standard,199,Canada,24,2023-09-07,2024-03-01,Netflix
+263,Basic,499,India,30,2023-07-09,2023-10-26,Netflix
+264,Basic,499,India,48,2023-04-23,2023-08-01,Hotstar
+265,Standard,199,Canada,21,2023-05-04,,Netflix
+266,Premium,199,USA,34,2023-07-01,,Netflix
+267,Standard,299,USA,15,2023-09-21,,Amazon Prime
+268,Premium,499,India,16,2023-10-10,,Hotstar
+269,Standard,499,USA,13,2023-04-10,,Amazon Prime
+270,Premium,199,UK,18,2023-01-05,,Netflix
+271,Basic,499,UK,3,2023-06-18,2023-12-09,Hotstar
+272,Basic,499,UK,5,2023-06-22,2023-07-29,Netflix
+273,Standard,199,UK,25,2023-06-23,,Amazon Prime
+274,Basic,199,UK,24,2023-02-27,,Netflix
+275,Basic,499,USA,38,2023-09-03,2024-01-01,Netflix
+276,Standard,299,USA,33,2023-05-12,,Netflix
+277,Premium,499,India,50,2023-01-06,2023-02-19,Netflix
+278,Premium,299,India,51,2023-09-02,2024-03-16,Netflix
+279,Standard,199,India,15,2023-12-29,2024-04-07,Hotstar
+280,Standard,499,India,56,2023-12-20,,Hotstar
+281,Premium,199,USA,57,2023-06-23,,Hotstar
+282,Premium,199,India,51,2023-07-28,,Netflix
+283,Premium,199,Canada,30,2023-10-18,,Amazon Prime
+284,Premium,499,Canada,32,2023-10-31,,Netflix
+285,Premium,499,India,17,2023-11-08,2024-02-01,Netflix
+286,Premium,299,UK,12,2023-01-24,,Netflix
+287,Basic,199,Canada,35,2023-10-16,2024-04-15,Hotstar
+288,Standard,199,UK,38,2023-12-13,2024-06-13,Netflix
+289,Premium,199,USA,12,2023-01-21,,Amazon Prime
+290,Standard,199,Canada,41,2023-10-16,,Amazon Prime
+291,Premium,499,India,51,2023-11-09,,Netflix
+292,Premium,299,UK,2,2023-01-10,,Hotstar
+293,Standard,499,USA,32,2023-04-04,,Netflix
+294,Basic,499,India,28,2023-09-29,2024-03-13,Hotstar
+295,Premium,199,India,14,2023-01-18,,Netflix
+296,Basic,499,UK,46,2023-04-10,,Netflix
+297,Standard,299,UK,2,2023-01-19,,Amazon Prime
+298,Standard,199,UK,19,2023-12-10,,Netflix
+299,Basic,199,USA,51,2023-08-21,,Amazon Prime
+300,Standard,199,UK,32,2023-01-13,,Amazon Prime
+301,Standard,299,Canada,11,2023-05-29,,Amazon Prime
+302,Premium,199,USA,11,2023-02-11,,Hotstar
+303,Basic,199,Canada,47,2023-08-27,2024-02-12,Netflix
+304,Standard,199,Canada,10,2023-11-06,,Netflix
+305,Standard,299,Canada,38,2023-11-07,2024-02-22,Amazon Prime
+306,Premium,299,India,3,2023-04-10,,Hotstar
+307,Premium,199,India,21,2023-10-11,,Amazon Prime
+308,Standard,199,USA,57,2023-09-07,,Netflix
+309,Standard,299,UK,31,2023-03-17,2023-05-23,Hotstar
+310,Basic,499,UK,18,2023-09-07,,Amazon Prime
+311,Standard,299,UK,9,2023-10-08,,Hotstar
+312,Standard,199,Canada,4,2023-04-10,,Hotstar
+313,Standard,199,Canada,52,2023-08-15,2023-12-22,Netflix
+314,Standard,299,UK,21,2023-11-14,,Hotstar
+315,Basic,199,USA,52,2023-02-03,,Hotstar
+316,Premium,499,UK,4,2023-03-20,,Netflix
+317,Standard,499,UK,37,2023-12-18,,Netflix
+318,Basic,299,India,22,2023-03-04,,Netflix
+319,Standard,199,USA,37,2023-09-29,2024-02-22,Netflix
+320,Basic,499,USA,10,2023-01-16,,Amazon Prime
+321,Standard,299,Canada,23,2023-12-12,2024-01-14,Amazon Prime
+322,Standard,199,UK,32,2023-04-25,2023-10-15,Hotstar
+323,Premium,199,UK,48,2023-05-31,2023-09-12,Netflix
+324,Premium,499,Canada,2,2023-02-28,2023-08-11,Amazon Prime
+325,Basic,499,USA,1,2023-04-16,,Amazon Prime
+326,Basic,299,USA,31,2023-12-24,2024-04-04,Amazon Prime
+327,Standard,299,Canada,2,2023-07-20,,Netflix
+328,Standard,299,UK,40,2023-09-05,2024-03-11,Netflix
+329,Standard,499,India,17,2023-07-13,,Netflix
+330,Basic,499,India,41,2023-12-30,2024-06-28,Amazon Prime
+331,Premium,499,USA,23,2023-06-01,,Amazon Prime
+332,Basic,499,Canada,17,2023-11-07,2024-05-11,Netflix
+333,Basic,499,USA,7,2023-11-14,,Hotstar
+334,Premium,499,Canada,19,2023-01-31,,Netflix
+335,Basic,499,UK,38,2023-12-31,,Amazon Prime
+336,Basic,299,USA,22,2023-12-26,,Amazon Prime
+337,Standard,199,USA,40,2023-06-02,2023-07-21,Hotstar
+338,Basic,199,Canada,4,2023-02-16,2023-04-19,Amazon Prime
+339,Premium,499,UK,41,2023-05-23,,Amazon Prime
+340,Standard,199,UK,17,2023-09-10,,Amazon Prime
+341,Premium,199,Canada,39,2023-11-12,,Netflix
+342,Standard,199,Canada,2,2023-01-08,,Hotstar
+343,Standard,499,UK,3,2023-07-13,2023-10-29,Amazon Prime
+344,Basic,199,USA,22,2023-01-22,,Amazon Prime
+345,Standard,199,Canada,44,2023-04-27,,Amazon Prime
+346,Premium,199,India,47,2023-01-03,2023-06-22,Netflix
+347,Standard,299,India,50,2023-10-31,2023-12-29,Netflix
+348,Basic,199,USA,33,2023-07-18,2023-10-31,Amazon Prime
+349,Premium,499,USA,14,2023-10-12,2024-03-14,Netflix
+350,Premium,299,Canada,42,2023-03-29,2023-10-03,Hotstar
+351,Standard,299,USA,52,2023-08-02,2023-09-28,Netflix
+352,Standard,499,India,40,2023-10-24,,Netflix
+353,Basic,299,UK,24,2023-06-02,,Hotstar
+354,Standard,299,Canada,21,2023-05-01,,Hotstar
+355,Premium,299,UK,59,2023-12-13,,Amazon Prime
+356,Premium,299,USA,53,2023-06-24,2024-01-08,Hotstar
+357,Premium,199,Canada,52,2023-03-26,,Netflix
+358,Basic,299,USA,1,2023-05-02,2023-10-08,Hotstar
+359,Basic,499,USA,24,2023-08-30,2023-11-24,Hotstar
+360,Premium,199,Canada,25,2023-11-12,,Amazon Prime
+361,Basic,299,India,56,2023-10-28,2024-02-15,Netflix
+362,Premium,199,USA,43,2023-02-13,,Hotstar
+363,Standard,299,UK,13,2023-09-17,,Hotstar
+364,Premium,299,UK,44,2023-03-21,,Hotstar
+365,Premium,299,Canada,16,2023-01-23,,Netflix
+366,Basic,299,Canada,51,2023-04-06,,Amazon Prime
+367,Premium,499,UK,49,2023-06-12,,Netflix
+368,Premium,299,USA,38,2023-11-06,2024-04-25,Amazon Prime
+369,Basic,499,India,46,2023-07-18,2023-12-19,Netflix
+370,Basic,199,India,9,2023-06-29,,Amazon Prime
+371,Premium,299,Canada,5,2023-08-03,,Netflix
+372,Premium,199,Canada,25,2023-06-30,,Hotstar
+373,Standard,199,UK,9,2023-02-24,,Netflix
+374,Basic,499,USA,47,2023-07-23,,Netflix
+375,Basic,199,India,13,2023-03-15,2023-05-21,Netflix
+376,Standard,499,India,14,2023-07-08,,Netflix
+377,Basic,199,India,37,2023-12-20,2024-03-27,Hotstar
+378,Standard,199,UK,20,2023-07-18,2023-12-16,Amazon Prime
+379,Standard,299,India,8,2023-01-06,2023-02-24,Amazon Prime
+380,Basic,499,USA,43,2023-10-07,,Netflix
+381,Premium,499,Canada,17,2023-10-25,2023-12-07,Netflix
+382,Basic,499,USA,39,2023-10-04,,Hotstar
+383,Standard,299,India,15,2023-07-19,,Hotstar
+384,Basic,199,UK,48,2023-12-27,,Hotstar
+385,Basic,299,USA,39,2023-06-11,,Hotstar
+386,Standard,499,UK,6,2023-04-24,,Amazon Prime
+387,Standard,199,USA,11,2023-02-21,,Hotstar
+388,Basic,299,UK,34,2023-07-24,2024-01-06,Netflix
+389,Premium,499,UK,53,2023-01-09,,Amazon Prime
+390,Basic,299,Canada,54,2023-04-23,,Netflix
+391,Basic,299,USA,31,2023-09-02,2024-02-06,Netflix
+392,Premium,199,Canada,36,2023-03-22,2023-09-23,Hotstar
+393,Standard,199,Canada,8,2023-05-08,2023-09-23,Hotstar
+394,Basic,499,Canada,5,2023-10-27,,Amazon Prime
+395,Standard,199,UK,13,2023-09-23,,Netflix
+396,Standard,199,USA,16,2023-02-23,,Hotstar
+397,Basic,299,Canada,33,2023-08-29,2023-11-19,Hotstar
+398,Premium,199,India,3,2023-01-19,2023-04-17,Hotstar
+399,Basic,299,UK,42,2023-09-20,2023-11-01,Hotstar
+400,Standard,199,USA,36,2023-11-27,,Hotstar
+401,Premium,299,USA,25,2023-02-13,,Amazon Prime
+402,Basic,499,USA,35,2023-12-25,2024-02-17,Netflix
+403,Basic,299,Canada,18,2023-05-03,,Amazon Prime
+404,Standard,499,India,59,2023-05-17,2023-10-24,Netflix
+405,Standard,499,India,50,2023-07-13,,Netflix
+406,Standard,299,USA,18,2023-04-10,2023-08-10,Hotstar
+407,Standard,499,USA,19,2023-06-10,,Hotstar
+408,Premium,499,India,32,2023-01-23,,Hotstar
+409,Basic,199,USA,27,2023-02-16,,Hotstar
+410,Standard,299,Canada,45,2023-05-23,,Amazon Prime
+411,Standard,199,Canada,34,2023-03-15,2023-04-25,Hotstar
+412,Standard,199,UK,6,2023-09-17,,Hotstar
+413,Standard,199,UK,26,2023-06-22,2023-11-19,Netflix
+414,Standard,499,Canada,39,2023-12-18,,Amazon Prime
+415,Basic,499,USA,38,2023-09-26,2024-04-12,Amazon Prime
+416,Basic,299,USA,24,2023-09-24,2023-12-13,Netflix
+417,Premium,299,Canada,23,2023-02-23,,Amazon Prime
+418,Basic,299,UK,11,2023-11-10,2024-03-26,Hotstar
+419,Basic,499,UK,26,2023-01-30,,Netflix
+420,Standard,199,India,57,2023-09-06,,Netflix
+421,Standard,499,UK,39,2023-12-14,,Amazon Prime
+422,Standard,299,India,51,2023-11-27,2024-02-06,Hotstar
+423,Basic,499,UK,20,2023-07-11,,Netflix
+424,Basic,499,USA,24,2023-08-15,,Netflix
+425,Premium,199,Canada,16,2023-01-28,,Amazon Prime
+426,Premium,499,Canada,9,2023-04-16,,Amazon Prime
+427,Standard,299,India,16,2023-09-24,2024-02-03,Hotstar
+428,Basic,299,India,18,2023-07-30,,Amazon Prime
+429,Standard,499,India,36,2023-01-02,,Hotstar
+430,Standard,199,USA,8,2023-10-09,,Hotstar
+431,Basic,199,India,18,2023-09-10,,Hotstar
+432,Basic,299,UK,31,2023-12-20,,Hotstar
+433,Standard,199,Canada,49,2023-06-23,,Hotstar
+434,Standard,499,UK,12,2023-10-19,2024-02-25,Netflix
+435,Basic,199,UK,58,2023-09-14,,Hotstar
+436,Standard,499,Canada,28,2023-04-10,,Hotstar
+437,Standard,299,UK,27,2023-10-17,,Netflix
+438,Basic,299,USA,59,2023-10-06,,Netflix
+439,Standard,499,UK,22,2023-02-25,,Netflix
+440,Premium,499,UK,32,2023-11-24,,Netflix
+441,Standard,299,UK,44,2023-09-10,,Hotstar
+442,Premium,499,USA,6,2023-04-10,,Amazon Prime
+443,Basic,299,India,35,2023-10-02,,Netflix
+444,Standard,199,UK,19,2023-07-22,2023-11-25,Amazon Prime
+445,Basic,299,USA,31,2023-08-16,,Amazon Prime
+446,Basic,299,Canada,32,2023-08-24,,Hotstar
+447,Basic,199,USA,56,2023-07-29,,Hotstar
+448,Basic,499,Canada,41,2023-01-14,,Hotstar
+449,Premium,199,USA,21,2023-04-15,2023-07-10,Hotstar
+450,Basic,499,USA,20,2023-04-10,,Hotstar
+451,Basic,499,India,9,2023-06-16,,Netflix
+452,Standard,499,USA,29,2023-06-22,2023-08-19,Hotstar
+453,Basic,199,UK,31,2023-08-14,,Hotstar
+454,Premium,299,USA,26,2023-12-13,,Netflix
+455,Premium,299,India,4,2023-02-20,,Amazon Prime
+456,Premium,299,USA,46,2023-08-06,,Hotstar
+457,Basic,199,USA,4,2023-06-30,,Netflix
+458,Basic,199,UK,29,2023-03-09,,Amazon Prime
+459,Basic,199,USA,45,2023-10-04,2024-01-04,Netflix
+460,Basic,199,USA,36,2023-11-08,2023-12-21,Amazon Prime
+461,Standard,199,India,24,2023-03-22,2023-09-22,Amazon Prime
+462,Premium,299,India,40,2023-10-08,,Amazon Prime
+463,Standard,299,UK,54,2023-10-09,,Amazon Prime
+464,Premium,199,USA,24,2023-05-30,2023-07-10,Hotstar
+465,Standard,199,Canada,40,2023-10-12,2024-02-18,Hotstar
+466,Standard,199,USA,19,2023-08-24,,Hotstar
+467,Premium,499,UK,9,2023-10-06,,Amazon Prime
+468,Standard,499,India,14,2023-11-01,,Amazon Prime
+469,Premium,299,India,4,2023-04-10,2023-06-07,Hotstar
+470,Premium,199,Canada,4,2023-05-22,,Hotstar
+471,Basic,199,USA,19,2023-08-20,2024-02-05,Amazon Prime
+472,Basic,199,Canada,16,2023-04-11,2023-06-22,Netflix
+473,Basic,299,Canada,12,2023-06-06,,Netflix
+474,Standard,499,USA,50,2023-09-14,,Amazon Prime
+475,Standard,199,USA,35,2023-03-21,,Netflix
+476,Premium,299,India,41,2023-04-01,2023-08-01,Amazon Prime
+477,Standard,499,India,12,2023-06-16,,Hotstar
+478,Premium,499,Canada,10,2023-10-13,,Hotstar
+479,Premium,199,India,7,2023-07-08,2023-08-09,Hotstar
+480,Premium,499,Canada,52,2023-01-26,,Netflix
+481,Basic,199,Canada,57,2023-08-18,2023-09-23,Amazon Prime
+482,Standard,499,India,33,2023-08-10,2023-11-26,Amazon Prime
+483,Premium,499,USA,49,2023-02-08,2023-08-15,Netflix
+484,Basic,499,India,23,2023-04-13,2023-07-09,Netflix
+485,Basic,199,USA,37,2023-03-12,,Netflix
+486,Standard,199,UK,30,2023-04-29,,Netflix
+487,Basic,199,Canada,37,2023-11-09,2024-03-10,Hotstar
+488,Standard,299,UK,32,2023-01-01,,Amazon Prime
+489,Standard,299,India,40,2023-12-29,,Hotstar
+490,Standard,499,India,8,2023-12-28,2024-03-20,Netflix
+491,Standard,299,Canada,37,2023-02-18,2023-05-27,Amazon Prime
+492,Standard,199,USA,42,2023-09-12,2023-10-13,Amazon Prime
+493,Basic,499,India,4,2023-06-14,,Amazon Prime
+494,Premium,299,UK,50,2023-07-04,,Amazon Prime
+495,Premium,299,USA,46,2023-03-25,,Hotstar
+496,Standard,299,UK,46,2023-01-29,,Amazon Prime
+497,Standard,499,Canada,39,2023-12-02,2024-02-15,Netflix
+498,Basic,199,UK,14,2023-07-22,2023-09-07,Hotstar
+499,Basic,199,UK,7,2023-04-14,,Netflix
+500,Basic,299,USA,47,2023-07-01,,Amazon Prime
+501,Premium,199,UK,5,2023-12-14,,Hotstar
+502,Standard,199,USA,32,2023-06-12,,Netflix
+503,Premium,499,Canada,52,2023-07-06,,Netflix
+504,Premium,299,USA,16,2023-03-15,2023-04-25,Amazon Prime
+505,Basic,199,India,58,2023-12-23,,Hotstar
+506,Basic,299,UK,31,2023-02-19,2023-06-28,Hotstar
+507,Basic,299,India,33,2023-05-30,2023-08-02,Hotstar
+508,Standard,299,India,59,2023-03-07,2023-07-25,Hotstar
+509,Premium,499,India,15,2023-04-29,2023-09-23,Hotstar
+510,Standard,199,Canada,7,2023-08-15,,Amazon Prime
+511,Standard,499,Canada,48,2023-03-13,2023-04-26,Netflix
+512,Standard,199,Canada,19,2023-07-13,,Netflix
+513,Premium,299,Canada,32,2023-11-05,,Hotstar
+514,Premium,199,UK,43,2023-01-28,2023-06-26,Hotstar
+515,Premium,299,USA,31,2023-10-04,,Netflix
+516,Basic,299,UK,32,2023-03-01,2023-06-03,Netflix
+517,Basic,199,India,31,2023-12-09,2024-06-15,Hotstar
+518,Premium,199,UK,19,2023-02-07,2023-06-13,Netflix
+519,Standard,299,UK,41,2023-05-31,,Amazon Prime
+520,Basic,199,Canada,58,2023-04-26,2023-06-23,Amazon Prime
+521,Basic,299,UK,32,2023-01-24,,Amazon Prime
+522,Basic,499,Canada,52,2023-10-02,2024-03-01,Hotstar
+523,Premium,199,India,44,2023-09-04,2024-02-14,Hotstar
+524,Standard,499,USA,17,2023-11-04,,Netflix
+525,Standard,499,UK,24,2023-10-14,,Netflix
+526,Standard,199,UK,58,2023-08-06,2024-01-04,Netflix
+527,Standard,199,Canada,20,2023-10-23,,Hotstar
+528,Basic,499,UK,13,2023-06-02,2023-08-22,Amazon Prime
+529,Premium,199,USA,12,2023-07-13,,Amazon Prime
+530,Basic,499,India,51,2023-05-13,2023-06-29,Netflix
+531,Premium,299,India,25,2023-10-31,2023-12-05,Netflix
+532,Standard,199,UK,40,2023-08-26,,Amazon Prime
+533,Basic,499,USA,23,2023-08-08,2023-11-08,Hotstar
+534,Premium,299,UK,22,2023-09-02,,Hotstar
+535,Standard,299,UK,37,2023-02-08,,Amazon Prime
+536,Standard,499,UK,25,2023-03-20,,Amazon Prime
+537,Premium,299,India,1,2023-04-28,,Netflix
+538,Basic,499,UK,12,2023-02-26,,Netflix
+539,Standard,299,USA,40,2023-07-23,,Amazon Prime
+540,Standard,199,India,28,2023-04-14,,Netflix
+541,Basic,199,USA,48,2023-09-06,,Hotstar
+542,Basic,199,Canada,11,2023-09-17,2024-01-12,Amazon Prime
+543,Standard,499,Canada,48,2023-10-17,,Netflix
+544,Basic,499,India,6,2023-10-27,2024-03-29,Amazon Prime
+545,Basic,299,Canada,47,2023-06-14,2023-07-20,Hotstar
+546,Basic,499,UK,4,2023-07-02,,Netflix
+547,Premium,499,Canada,37,2023-08-25,,Netflix
+548,Standard,299,USA,32,2023-04-01,2023-06-17,Amazon Prime
+549,Standard,199,Canada,27,2023-10-07,,Netflix
+550,Standard,499,Canada,38,2023-04-23,2023-06-25,Netflix
+551,Standard,199,UK,14,2023-09-13,,Hotstar
+552,Premium,199,USA,8,2023-12-09,,Hotstar
+553,Premium,199,Canada,51,2023-04-13,,Hotstar
+554,Basic,499,UK,22,2023-01-16,2023-06-25,Hotstar
+555,Basic,199,Canada,37,2023-09-08,,Hotstar
+556,Basic,199,Canada,39,2023-05-09,,Hotstar
+557,Basic,499,Canada,16,2023-09-20,,Netflix
+558,Premium,199,India,44,2023-11-13,2024-01-15,Amazon Prime
+559,Premium,199,USA,57,2023-03-25,,Hotstar
+560,Premium,499,India,10,2023-10-16,,Amazon Prime
+561,Standard,199,USA,32,2023-08-23,,Amazon Prime
+562,Basic,199,India,8,2023-07-08,,Amazon Prime
+563,Standard,299,UK,9,2023-01-29,,Hotstar
+564,Basic,299,India,41,2023-02-14,2023-03-16,Hotstar
+565,Premium,199,India,18,2023-01-23,,Netflix
+566,Premium,499,Canada,16,2023-10-06,,Amazon Prime
+567,Basic,499,Canada,58,2023-03-09,,Hotstar
+568,Basic,299,Canada,27,2023-09-26,,Hotstar
+569,Basic,199,UK,57,2023-03-18,,Amazon Prime
+570,Premium,499,UK,53,2023-08-04,2023-09-27,Hotstar
+571,Premium,199,Canada,48,2023-04-27,,Amazon Prime
+572,Basic,499,India,14,2023-05-22,,Amazon Prime
+573,Basic,499,India,6,2023-06-21,,Netflix
+574,Standard,199,India,9,2023-03-28,2023-09-13,Hotstar
+575,Basic,499,India,45,2023-06-15,2023-11-10,Amazon Prime
+576,Premium,499,Canada,23,2023-03-20,,Hotstar
+577,Standard,499,Canada,27,2023-07-29,,Netflix
+578,Standard,299,UK,44,2023-02-02,,Netflix
+579,Standard,199,India,10,2023-02-06,2023-05-20,Amazon Prime
+580,Premium,199,India,18,2023-07-14,,Amazon Prime
+581,Standard,499,USA,9,2023-12-03,2024-01-02,Netflix
+582,Standard,499,Canada,53,2023-10-20,,Amazon Prime
+583,Premium,499,India,33,2023-04-28,,Amazon Prime
+584,Basic,299,UK,21,2023-01-29,,Hotstar
+585,Basic,199,UK,45,2023-12-20,,Amazon Prime
+586,Standard,199,UK,29,2023-09-11,,Netflix
+587,Standard,299,India,6,2023-08-03,,Hotstar
+588,Premium,199,India,8,2023-04-20,,Netflix
+589,Standard,299,USA,39,2023-11-18,,Amazon Prime
+590,Standard,499,India,42,2023-03-02,,Netflix
+591,Basic,499,UK,57,2023-10-21,,Netflix
+592,Premium,499,India,59,2023-01-22,2023-03-17,Hotstar
+593,Premium,199,UK,21,2023-04-07,,Amazon Prime
+594,Standard,299,UK,47,2023-06-02,,Netflix
+595,Premium,299,USA,18,2023-10-23,2024-02-22,Amazon Prime
+596,Standard,499,Canada,10,2023-08-28,,Netflix
+597,Standard,499,UK,42,2023-04-26,,Netflix
+598,Premium,299,Canada,22,2023-06-02,,Netflix
+599,Premium,199,USA,21,2023-03-08,,Amazon Prime
+600,Standard,199,Canada,41,2023-08-26,2023-10-11,Netflix
+601,Standard,199,India,42,2023-03-07,,Amazon Prime
+602,Premium,299,UK,5,2023-06-01,,Amazon Prime
+603,Premium,299,Canada,1,2023-12-25,,Hotstar
+604,Premium,299,UK,4,2023-02-26,,Hotstar
+605,Premium,499,India,12,2023-09-28,,Netflix
+606,Standard,499,Canada,7,2023-01-11,2023-06-15,Netflix
+607,Premium,299,UK,26,2023-04-11,2023-10-19,Amazon Prime
+608,Premium,499,UK,52,2023-09-03,2023-10-30,Hotstar
+609,Standard,299,Canada,10,2023-05-14,2023-11-28,Amazon Prime
+610,Premium,299,Canada,42,2023-12-28,,Amazon Prime
+611,Basic,199,USA,1,2023-01-19,,Amazon Prime
+612,Standard,199,Canada,52,2023-06-03,2023-11-17,Netflix
+613,Premium,199,USA,58,2023-04-03,,Amazon Prime
+614,Basic,299,Canada,13,2023-10-15,2023-12-06,Netflix
+615,Basic,299,India,15,2023-08-21,,Amazon Prime
+616,Premium,299,UK,31,2023-07-23,2023-11-12,Hotstar
+617,Standard,299,UK,15,2023-02-01,2023-06-19,Hotstar
+618,Premium,499,USA,45,2023-12-21,,Amazon Prime
+619,Basic,299,Canada,17,2023-06-05,2023-10-26,Amazon Prime
+620,Basic,499,UK,13,2023-12-22,,Hotstar
+621,Basic,499,Canada,37,2023-12-29,,Netflix
+622,Basic,499,India,7,2023-02-07,2023-05-02,Amazon Prime
+623,Standard,299,India,1,2023-10-23,,Amazon Prime
+624,Basic,299,USA,55,2023-08-04,,Netflix
+625,Standard,299,Canada,39,2023-02-28,,Netflix
+626,Basic,499,UK,13,2023-09-15,,Netflix
+627,Basic,499,Canada,1,2023-04-29,,Amazon Prime
+628,Basic,499,India,50,2023-11-05,,Netflix
+629,Basic,299,India,3,2023-02-28,,Amazon Prime
+630,Standard,499,USA,12,2023-04-11,,Amazon Prime
+631,Standard,299,UK,45,2023-12-24,,Netflix
+632,Premium,299,UK,48,2023-04-02,,Netflix
+633,Premium,499,India,40,2023-04-13,,Amazon Prime
+634,Premium,199,Canada,22,2023-04-08,,Hotstar
+635,Basic,499,Canada,10,2023-08-04,2023-11-18,Netflix
+636,Basic,499,India,38,2023-07-13,2023-11-11,Hotstar
+637,Standard,199,Canada,32,2023-06-30,,Amazon Prime
+638,Basic,299,India,55,2023-03-14,2023-07-19,Amazon Prime
+639,Premium,499,Canada,42,2023-11-15,2024-02-13,Netflix
+640,Standard,499,Canada,24,2023-11-01,2023-12-27,Hotstar
+641,Standard,199,India,21,2023-06-01,,Netflix
+642,Premium,299,USA,27,2023-08-11,,Netflix
+643,Basic,299,USA,33,2023-04-29,2023-11-11,Netflix
+644,Standard,499,India,52,2023-10-18,2024-01-20,Netflix
+645,Premium,499,India,22,2023-02-24,,Amazon Prime
+646,Basic,499,Canada,11,2023-07-16,,Hotstar
+647,Basic,499,India,2,2023-09-01,2024-01-07,Netflix
+648,Premium,299,USA,25,2023-10-07,2024-03-26,Hotstar
+649,Premium,199,India,13,2023-09-22,,Hotstar
+650,Basic,299,Canada,4,2023-07-10,2023-11-03,Netflix
+651,Basic,199,UK,15,2023-01-30,,Netflix
+652,Basic,499,USA,25,2023-12-23,2024-02-27,Hotstar
+653,Basic,199,India,39,2023-12-01,,Amazon Prime
+654,Basic,199,Canada,18,2023-12-12,2024-03-11,Amazon Prime
+655,Standard,199,USA,25,2023-06-14,2023-11-01,Netflix
+656,Basic,199,India,15,2023-12-16,,Netflix
+657,Premium,499,USA,7,2023-11-27,,Netflix
+658,Basic,199,Canada,21,2023-02-18,2023-07-25,Amazon Prime
+659,Standard,199,India,53,2023-08-06,2023-11-06,Netflix
+660,Premium,499,India,48,2023-02-15,2023-08-17,Netflix
+661,Standard,499,UK,15,2023-07-03,2023-11-25,Amazon Prime
+662,Premium,499,USA,20,2023-11-25,,Amazon Prime
+663,Standard,499,Canada,23,2023-02-01,,Netflix
+664,Basic,499,UK,54,2023-02-19,,Hotstar
+665,Premium,199,India,15,2023-03-02,,Amazon Prime
+666,Premium,199,UK,19,2023-08-08,,Hotstar
+667,Basic,199,UK,46,2023-12-20,2024-06-07,Netflix
+668,Basic,499,Canada,53,2023-08-20,,Amazon Prime
+669,Premium,499,USA,42,2023-03-10,,Amazon Prime
+670,Premium,299,USA,23,2023-12-18,,Amazon Prime
+671,Premium,299,UK,47,2023-07-10,,Amazon Prime
+672,Premium,499,India,10,2023-06-19,2023-10-12,Hotstar
+673,Standard,499,Canada,44,2023-12-29,2024-02-07,Hotstar
+674,Premium,499,UK,35,2023-04-12,,Hotstar
+675,Basic,299,UK,30,2023-06-16,,Netflix
+676,Premium,199,UK,34,2023-01-02,,Amazon Prime
+677,Standard,299,India,57,2023-08-12,,Netflix
+678,Premium,499,Canada,14,2023-07-20,2023-09-25,Amazon Prime
+679,Standard,299,USA,16,2023-02-15,,Netflix
+680,Standard,499,India,32,2023-05-14,2023-08-18,Netflix
+681,Premium,199,UK,47,2023-03-31,,Amazon Prime
+682,Basic,199,USA,31,2023-11-27,2024-03-15,Netflix
+683,Basic,199,USA,17,2023-05-01,2023-08-27,Hotstar
+684,Basic,299,UK,18,2023-02-16,2023-07-10,Amazon Prime
+685,Standard,499,USA,5,2023-12-31,,Hotstar
+686,Premium,499,USA,20,2023-05-14,,Netflix
+687,Basic,499,India,47,2023-07-30,,Amazon Prime
+688,Standard,499,UK,42,2023-03-21,,Amazon Prime
+689,Basic,299,UK,58,2023-05-01,,Netflix
+690,Standard,299,USA,31,2023-02-22,,Netflix
+691,Standard,299,UK,46,2023-12-09,2024-05-07,Hotstar
+692,Premium,299,UK,33,2023-08-04,2023-09-20,Amazon Prime
+693,Standard,299,UK,2,2023-01-23,,Amazon Prime
+694,Basic,199,UK,18,2023-03-14,2023-05-24,Hotstar
+695,Premium,299,USA,28,2023-07-11,2023-10-11,Amazon Prime
+696,Basic,499,India,7,2023-01-29,,Amazon Prime
+697,Standard,299,USA,1,2023-09-09,2024-02-01,Hotstar
+698,Premium,499,India,37,2023-10-29,2024-04-05,Hotstar
+699,Basic,199,USA,58,2023-04-10,,Hotstar
+700,Standard,299,UK,50,2023-09-19,2024-03-10,Netflix
+701,Premium,499,Canada,37,2023-08-20,,Netflix
+702,Basic,499,India,30,2023-07-26,,Amazon Prime
+703,Basic,499,Canada,15,2023-02-13,,Hotstar
+704,Standard,199,USA,8,2023-10-23,2024-03-09,Hotstar
+705,Premium,499,Canada,2,2023-05-24,2023-07-16,Amazon Prime
+706,Premium,499,India,19,2023-07-03,,Netflix
+707,Standard,199,India,12,2023-03-18,,Amazon Prime
+708,Standard,299,Canada,1,2023-10-18,2024-03-06,Amazon Prime
+709,Standard,499,Canada,49,2023-01-26,,Hotstar
+710,Basic,499,UK,54,2023-05-13,2023-08-27,Netflix
+711,Standard,499,Canada,25,2023-06-10,,Hotstar
+712,Standard,299,Canada,32,2023-12-09,,Amazon Prime
+713,Basic,299,USA,13,2023-07-10,2023-11-14,Hotstar
+714,Basic,299,Canada,13,2023-08-27,2024-01-25,Amazon Prime
+715,Standard,299,Canada,5,2023-01-07,,Hotstar
+716,Standard,299,Canada,35,2023-08-27,2023-10-24,Netflix
+717,Basic,299,India,8,2023-02-03,2023-05-24,Hotstar
+718,Premium,299,India,28,2023-01-07,,Netflix
+719,Standard,299,USA,7,2023-06-14,,Amazon Prime
+720,Premium,299,UK,19,2023-09-19,2023-11-24,Netflix
+721,Standard,299,USA,41,2023-11-24,,Netflix
+722,Premium,199,USA,21,2023-02-27,2023-06-27,Netflix
+723,Premium,299,USA,53,2023-08-08,,Hotstar
+724,Premium,199,India,31,2023-10-18,2024-01-21,Netflix
+725,Basic,499,India,8,2023-12-08,,Hotstar
+726,Basic,199,UK,58,2023-11-07,2023-12-11,Amazon Prime
+727,Basic,299,India,53,2023-09-08,,Netflix
+728,Basic,199,USA,30,2023-09-08,,Netflix
+729,Standard,199,Canada,15,2023-06-30,,Amazon Prime
+730,Basic,199,India,2,2023-04-20,2023-09-16,Netflix
+731,Basic,199,India,41,2023-11-05,2024-04-20,Netflix
+732,Premium,199,USA,33,2023-03-18,,Amazon Prime
+733,Basic,299,USA,22,2023-12-06,2024-04-04,Netflix
+734,Premium,199,USA,53,2023-05-30,2023-12-07,Hotstar
+735,Premium,499,Canada,39,2023-07-02,,Netflix
+736,Standard,299,USA,17,2023-07-11,,Amazon Prime
+737,Premium,499,Canada,38,2023-03-30,,Netflix
+738,Premium,199,Canada,36,2023-02-18,,Amazon Prime
+739,Basic,499,Canada,4,2023-03-19,2023-06-28,Netflix
+740,Premium,499,Canada,56,2023-11-16,,Hotstar
+741,Standard,299,UK,18,2023-06-03,,Hotstar
+742,Basic,299,Canada,38,2023-07-08,2023-12-25,Netflix
+743,Premium,299,UK,37,2023-08-11,,Amazon Prime
+744,Basic,199,UK,21,2023-03-17,,Hotstar
+745,Standard,299,UK,6,2023-08-11,2024-01-30,Netflix
+746,Premium,199,Canada,8,2023-09-30,,Amazon Prime
+747,Standard,299,India,40,2023-09-20,,Amazon Prime
+748,Standard,299,UK,53,2023-10-24,2024-03-20,Hotstar
+749,Basic,199,USA,11,2023-10-14,,Hotstar
+750,Premium,499,USA,15,2023-02-27,2023-07-27,Amazon Prime
+751,Standard,299,UK,43,2023-08-02,,Netflix
+752,Premium,199,USA,39,2023-07-30,,Hotstar
+753,Standard,199,UK,4,2023-10-21,2024-02-15,Hotstar
+754,Basic,299,USA,44,2023-01-24,2023-04-15,Hotstar
+755,Standard,199,India,27,2023-01-22,2023-04-29,Amazon Prime
+756,Premium,299,UK,3,2023-03-10,2023-09-16,Netflix
+757,Basic,299,India,9,2023-12-09,2024-03-29,Amazon Prime
+758,Standard,499,India,37,2023-07-13,,Netflix
+759,Standard,299,USA,6,2023-08-02,2024-01-14,Amazon Prime
+760,Basic,499,USA,19,2023-03-31,2023-10-06,Amazon Prime
+761,Premium,299,UK,22,2023-11-10,,Hotstar
+762,Premium,299,USA,15,2023-02-19,,Hotstar
+763,Standard,499,Canada,23,2023-01-23,,Netflix
+764,Basic,499,India,18,2023-12-29,,Amazon Prime
+765,Basic,499,UK,20,2023-12-11,2024-05-05,Amazon Prime
+766,Basic,499,UK,22,2023-05-28,,Hotstar
+767,Standard,299,Canada,13,2023-12-23,2024-05-28,Amazon Prime
+768,Standard,299,India,6,2023-02-06,,Amazon Prime
+769,Premium,299,Canada,54,2023-12-07,,Amazon Prime
+770,Basic,299,UK,49,2023-05-22,2023-08-10,Netflix
+771,Premium,199,Canada,27,2023-07-03,,Amazon Prime
+772,Premium,499,Canada,36,2023-01-28,,Hotstar
+773,Standard,199,USA,2,2023-11-22,,Amazon Prime
+774,Premium,499,Canada,5,2023-12-26,2024-06-20,Netflix
+775,Basic,199,UK,36,2023-08-04,,Netflix
+776,Standard,199,India,55,2023-03-25,,Netflix
+777,Basic,299,USA,10,2023-10-15,2024-04-17,Amazon Prime
+778,Standard,299,USA,45,2023-10-08,,Netflix
+779,Basic,299,UK,49,2023-12-18,,Netflix
+780,Standard,299,UK,32,2023-08-12,2023-10-28,Hotstar
+781,Standard,499,India,49,2023-01-28,2023-07-23,Netflix
+782,Basic,499,Canada,48,2023-03-04,2023-06-02,Netflix
+783,Standard,499,USA,59,2023-05-20,2023-10-16,Amazon Prime
+784,Basic,199,India,17,2023-08-29,,Hotstar
+785,Standard,499,UK,2,2023-05-26,,Netflix
+786,Basic,499,UK,28,2023-07-08,2023-10-06,Netflix
+787,Basic,199,USA,56,2023-05-21,2023-08-06,Amazon Prime
+788,Standard,299,India,1,2023-10-10,2024-02-10,Hotstar
+789,Premium,199,India,32,2023-09-08,2023-11-13,Amazon Prime
+790,Premium,499,USA,42,2023-08-08,,Amazon Prime
+791,Standard,299,Canada,18,2023-12-14,,Netflix
+792,Standard,499,USA,24,2023-05-21,,Netflix
+793,Standard,299,UK,25,2023-01-03,,Amazon Prime
+794,Premium,499,India,22,2023-02-08,,Hotstar
+795,Standard,499,India,39,2023-03-01,,Hotstar
+796,Premium,199,USA,42,2023-09-05,2023-11-09,Netflix
+797,Basic,499,UK,57,2023-07-28,2023-12-01,Netflix
+798,Basic,299,USA,51,2023-07-13,,Hotstar
+799,Standard,299,Canada,6,2023-04-09,,Netflix
+800,Basic,299,UK,56,2023-07-10,2023-11-18,Amazon Prime
+801,Basic,299,UK,20,2023-08-17,2024-01-08,Amazon Prime
+802,Premium,299,Canada,16,2023-03-12,,Amazon Prime
+803,Premium,499,UK,17,2023-01-31,,Hotstar
+804,Standard,199,Canada,12,2023-04-16,,Hotstar
+805,Premium,199,India,25,2023-04-21,,Amazon Prime
+806,Premium,299,India,13,2023-04-17,2023-06-03,Netflix
+807,Basic,299,USA,35,2023-04-15,,Hotstar
+808,Basic,199,UK,18,2023-09-02,2023-10-19,Amazon Prime
+809,Basic,299,UK,5,2023-06-14,,Netflix
+810,Basic,299,USA,41,2023-07-04,,Amazon Prime
+811,Basic,199,UK,50,2023-03-26,,Netflix
+812,Premium,199,USA,8,2023-12-18,,Hotstar
+813,Standard,299,India,34,2023-03-31,,Amazon Prime
+814,Basic,299,India,17,2023-09-25,,Hotstar
+815,Basic,199,Canada,48,2023-08-14,2023-10-13,Netflix
+816,Premium,499,India,33,2023-09-23,,Netflix
+817,Premium,299,USA,9,2023-01-12,2023-03-27,Hotstar
+818,Premium,499,USA,32,2023-01-27,2023-05-07,Amazon Prime
+819,Premium,199,Canada,14,2023-06-06,,Amazon Prime
+820,Standard,199,UK,12,2023-12-22,,Netflix
+821,Standard,499,India,52,2023-12-05,2024-02-17,Hotstar
+822,Standard,299,UK,46,2023-11-02,,Netflix
+823,Basic,199,India,47,2023-01-19,,Amazon Prime
+824,Basic,499,USA,24,2023-10-29,,Amazon Prime
+825,Standard,199,UK,19,2023-10-31,2023-12-14,Netflix
+826,Standard,299,UK,31,2023-10-09,2023-12-24,Netflix
+827,Premium,499,Canada,29,2023-04-25,,Netflix
+828,Standard,499,Canada,5,2023-07-25,2023-10-25,Hotstar
+829,Premium,299,USA,35,2023-11-17,,Amazon Prime
+830,Premium,199,India,30,2023-06-16,,Amazon Prime
+831,Premium,499,India,17,2023-05-12,2023-11-25,Hotstar
+832,Premium,199,USA,24,2023-12-27,2024-03-07,Netflix
+833,Premium,299,India,54,2023-06-18,,Amazon Prime
+834,Standard,499,India,16,2023-11-28,,Amazon Prime
+835,Basic,299,UK,19,2023-08-06,2024-02-09,Netflix
+836,Premium,299,USA,19,2023-05-29,2023-08-09,Hotstar
+837,Premium,299,India,44,2023-09-10,2024-01-10,Amazon Prime
+838,Premium,299,USA,35,2023-01-30,,Hotstar
+839,Standard,499,Canada,3,2023-10-18,2023-12-01,Amazon Prime
+840,Standard,499,USA,46,2023-01-16,,Amazon Prime
+841,Basic,299,Canada,33,2023-12-25,2024-06-11,Netflix
+842,Premium,199,USA,52,2023-09-01,2024-02-02,Amazon Prime
+843,Premium,299,USA,5,2023-05-07,,Amazon Prime
+844,Premium,299,UK,50,2023-12-26,,Amazon Prime
+845,Standard,199,Canada,10,2023-12-06,,Hotstar
+846,Premium,499,UK,49,2023-03-29,,Hotstar
+847,Premium,199,USA,35,2023-08-06,,Netflix
+848,Basic,199,UK,12,2023-10-10,,Netflix
+849,Standard,199,Canada,55,2023-04-06,2023-06-19,Hotstar
+850,Premium,499,Canada,56,2023-08-03,,Hotstar
+851,Standard,299,UK,29,2023-03-23,,Hotstar
+852,Premium,199,UK,48,2023-05-26,,Hotstar
+853,Basic,299,India,8,2023-09-12,2024-03-17,Amazon Prime
+854,Premium,499,USA,20,2023-03-17,2023-07-28,Amazon Prime
+855,Premium,499,Canada,33,2023-06-12,,Netflix
+856,Standard,299,India,11,2023-02-18,,Netflix
+857,Premium,299,UK,4,2023-02-17,2023-07-21,Amazon Prime
+858,Standard,499,USA,39,2023-07-11,2023-10-12,Hotstar
+859,Standard,299,India,29,2023-07-10,,Hotstar
+860,Standard,299,India,45,2023-03-18,,Amazon Prime
+861,Basic,499,USA,2,2023-12-02,,Netflix
+862,Standard,499,Canada,2,2023-06-15,2023-08-13,Hotstar
+863,Standard,299,Canada,14,2023-08-20,,Hotstar
+864,Basic,299,UK,16,2023-11-14,2024-02-05,Netflix
+865,Standard,299,UK,46,2023-07-03,,Netflix
+866,Premium,199,USA,47,2023-10-21,,Netflix
+867,Basic,199,India,36,2023-02-10,2023-04-23,Hotstar
+868,Premium,299,USA,41,2023-07-23,,Hotstar
+869,Standard,499,India,16,2023-05-24,2023-08-24,Netflix
+870,Standard,299,Canada,53,2023-01-16,,Hotstar
+871,Premium,199,USA,42,2023-05-28,,Amazon Prime
+872,Standard,199,UK,23,2023-02-13,,Hotstar
+873,Standard,299,USA,39,2023-07-28,,Amazon Prime
+874,Basic,299,Canada,24,2023-11-06,,Hotstar
+875,Standard,499,Canada,51,2023-10-11,,Hotstar
+876,Basic,199,USA,17,2023-07-19,,Amazon Prime
+877,Standard,299,Canada,14,2023-08-05,2024-02-17,Amazon Prime
+878,Premium,199,USA,2,2023-01-09,2023-04-12,Netflix
+879,Standard,499,Canada,22,2023-07-09,,Hotstar
+880,Standard,499,Canada,35,2023-03-26,,Hotstar
+881,Premium,299,USA,46,2023-09-09,,Netflix
+882,Basic,199,India,45,2023-06-09,2023-07-15,Hotstar
+883,Premium,499,UK,45,2023-10-30,2024-05-08,Hotstar
+884,Standard,299,USA,41,2023-08-10,2023-09-27,Netflix
+885,Standard,199,Canada,11,2023-09-04,2024-02-03,Amazon Prime
+886,Standard,199,India,51,2023-07-24,2023-10-07,Hotstar
+887,Basic,199,Canada,34,2023-12-27,2024-07-11,Hotstar
+888,Premium,499,USA,18,2023-07-26,,Hotstar
+889,Basic,199,India,6,2023-04-01,,Netflix
+890,Premium,299,India,11,2023-10-25,,Amazon Prime
+891,Premium,199,India,23,2023-03-29,2023-09-18,Amazon Prime
+892,Premium,499,Canada,23,2023-12-12,,Hotstar
+893,Premium,199,Canada,32,2023-05-14,,Amazon Prime
+894,Premium,199,India,2,2023-11-09,2024-01-03,Hotstar
+895,Premium,299,India,7,2023-10-13,2024-04-15,Netflix
+896,Standard,199,India,22,2023-08-28,,Hotstar
+897,Standard,499,UK,48,2023-11-06,,Hotstar
+898,Standard,199,UK,39,2023-02-06,2023-05-14,Hotstar
+899,Standard,499,USA,53,2023-10-10,,Amazon Prime
+900,Standard,299,USA,53,2023-12-29,,Hotstar
+901,Premium,499,USA,42,2023-09-22,,Netflix
+902,Standard,499,USA,48,2023-05-20,,Hotstar
+903,Basic,199,India,4,2023-04-03,,Amazon Prime
+904,Basic,499,USA,52,2023-07-04,2023-09-09,Netflix
+905,Premium,499,India,39,2023-08-05,2023-09-05,Netflix
+906,Standard,199,UK,28,2023-06-17,,Amazon Prime
+907,Premium,299,USA,50,2023-06-24,2023-12-14,Amazon Prime
+908,Basic,499,Canada,18,2023-07-29,,Hotstar
+909,Premium,199,Canada,31,2023-10-12,,Netflix
+910,Basic,499,USA,33,2023-06-16,2023-11-07,Hotstar
+911,Standard,199,USA,22,2023-09-04,,Amazon Prime
+912,Premium,499,India,46,2023-12-02,,Netflix
+913,Standard,199,USA,32,2023-05-20,2023-09-13,Amazon Prime
+914,Premium,299,Canada,54,2023-12-31,2024-02-12,Hotstar
+915,Basic,199,UK,13,2023-01-26,,Amazon Prime
+916,Basic,499,UK,15,2023-04-26,2023-07-22,Netflix
+917,Premium,299,India,28,2023-03-06,2023-05-13,Netflix
+918,Standard,499,Canada,1,2023-05-04,2023-10-28,Amazon Prime
+919,Premium,199,USA,35,2023-04-12,2023-08-26,Amazon Prime
+920,Basic,199,UK,28,2023-10-29,2024-05-01,Netflix
+921,Basic,199,UK,23,2023-03-05,,Netflix
+922,Standard,199,Canada,52,2023-10-04,,Netflix
+923,Premium,499,Canada,31,2023-06-29,,Netflix
+924,Basic,199,USA,14,2023-05-14,,Amazon Prime
+925,Premium,299,UK,55,2023-05-31,,Hotstar
+926,Standard,199,USA,49,2023-08-27,2023-12-23,Netflix
+927,Premium,299,UK,4,2023-04-13,2023-08-18,Netflix
+928,Standard,199,UK,44,2023-05-18,,Hotstar
+929,Premium,199,UK,53,2023-10-19,,Amazon Prime
+930,Premium,199,India,46,2023-10-03,,Amazon Prime
+931,Premium,499,Canada,13,2023-12-14,,Hotstar
+932,Standard,299,India,54,2023-04-08,2023-05-15,Amazon Prime
+933,Premium,299,USA,46,2023-01-16,,Amazon Prime
+934,Standard,299,India,59,2023-09-24,2024-03-09,Netflix
+935,Premium,199,UK,38,2023-05-06,,Amazon Prime
+936,Premium,499,USA,15,2023-12-25,,Netflix
+937,Premium,299,UK,24,2023-04-27,2023-10-03,Netflix
+938,Standard,299,India,9,2023-06-05,,Hotstar
+939,Standard,499,USA,54,2023-05-02,2023-06-13,Netflix
+940,Standard,499,USA,17,2023-05-31,2023-11-20,Netflix
+941,Basic,299,Canada,24,2023-09-12,,Netflix
+942,Standard,499,Canada,20,2023-12-23,,Hotstar
+943,Standard,199,Canada,39,2023-12-12,,Hotstar
+944,Premium,299,Canada,37,2023-03-03,2023-05-20,Amazon Prime
+945,Standard,199,USA,54,2023-01-22,2023-04-01,Netflix
+946,Standard,499,Canada,19,2023-02-08,,Amazon Prime
+947,Premium,499,USA,43,2023-03-31,2023-07-28,Netflix
+948,Standard,199,Canada,11,2023-12-05,,Hotstar
+949,Basic,499,USA,39,2023-12-08,,Amazon Prime
+950,Premium,199,USA,4,2023-11-04,2024-04-13,Hotstar
+951,Basic,199,Canada,45,2023-03-29,,Amazon Prime
+952,Premium,499,USA,9,2023-12-01,2024-01-16,Amazon Prime
+953,Basic,199,Canada,51,2023-08-21,,Hotstar
+954,Premium,299,UK,12,2023-07-17,,Hotstar
+955,Premium,299,USA,35,2023-06-27,2024-01-02,Amazon Prime
+956,Standard,199,India,43,2023-05-21,2023-11-16,Hotstar
+957,Standard,199,India,33,2023-02-25,2023-06-13,Hotstar
+958,Standard,299,USA,22,2023-02-17,,Amazon Prime
+959,Basic,199,UK,57,2023-05-20,,Amazon Prime
+960,Premium,499,Canada,22,2023-07-31,,Netflix
+961,Premium,199,Canada,12,2023-09-15,,Netflix
+962,Premium,299,Canada,26,2023-07-02,2023-11-27,Amazon Prime
+963,Basic,499,USA,22,2023-09-23,,Amazon Prime
+964,Standard,299,Canada,50,2023-11-21,2024-03-16,Amazon Prime
+965,Standard,199,USA,39,2023-11-16,,Amazon Prime
+966,Standard,199,India,12,2023-04-24,2023-09-11,Netflix
+967,Standard,499,India,53,2023-09-22,,Hotstar
+968,Premium,299,Canada,52,2023-04-19,,Netflix
+969,Standard,299,India,48,2023-06-28,2024-01-01,Netflix
+970,Basic,499,USA,5,2023-04-08,,Amazon Prime
+971,Premium,299,UK,2,2023-09-02,2023-11-14,Hotstar
+972,Basic,199,USA,32,2023-03-22,2023-06-06,Netflix
+973,Standard,199,Canada,25,2023-04-22,2023-08-09,Hotstar
+974,Basic,199,UK,24,2023-07-17,,Hotstar
+975,Standard,499,UK,52,2023-01-11,,Amazon Prime
+976,Premium,499,Canada,37,2023-08-20,2024-01-14,Netflix
+977,Basic,299,USA,34,2023-08-12,,Hotstar
+978,Standard,499,USA,13,2023-03-03,,Netflix
+979,Standard,199,Canada,27,2023-06-25,,Hotstar
+980,Premium,299,USA,13,2023-02-26,,Hotstar
+981,Basic,299,Canada,13,2023-11-27,,Amazon Prime
+982,Premium,299,USA,35,2023-10-03,,Hotstar
+983,Basic,299,Canada,33,2023-09-02,2024-02-17,Amazon Prime
+984,Premium,499,USA,6,2023-06-30,,Hotstar
+985,Basic,299,Canada,26,2023-08-14,,Netflix
+986,Premium,499,USA,15,2023-07-17,2023-09-16,Netflix
+987,Basic,499,UK,49,2023-07-28,,Hotstar
+988,Standard,199,Canada,2,2023-10-12,2024-01-07,Netflix
+989,Premium,499,USA,16,2023-04-21,2023-09-05,Netflix
+990,Basic,199,Canada,50,2023-01-27,,Amazon Prime
+991,Basic,499,USA,29,2023-05-10,2023-06-09,Hotstar
+992,Standard,499,USA,9,2023-04-27,2023-10-25,Hotstar
+993,Basic,499,UK,19,2023-02-09,2023-05-14,Netflix
+994,Premium,499,UK,59,2023-03-26,,Netflix
+995,Basic,299,UK,17,2023-04-21,2023-10-13,Hotstar
+996,Basic,299,Canada,43,2023-06-01,,Amazon Prime
+997,Basic,499,India,46,2023-12-06,,Netflix
+998,Basic,499,India,45,2023-06-03,,Hotstar
+999,Premium,199,Canada,15,2023-02-27,2023-05-30,Hotstar
+1000,Premium,299,Canada,23,2023-09-10,,Amazon Prime
+1001,Standard,199,UK,36,2023-08-02,,Amazon Prime
+1002,Standard,299,USA,54,2023-06-21,2023-08-20,Netflix
+1003,Premium,299,Canada,51,2023-05-06,,Netflix
+1004,Premium,499,USA,39,2023-12-02,,Hotstar
+1005,Basic,499,UK,53,2023-08-15,2023-10-25,Amazon Prime
+1006,Standard,499,UK,3,2023-01-06,2023-06-01,Netflix
+1007,Basic,299,Canada,52,2023-10-01,2023-11-22,Amazon Prime
+1008,Basic,499,USA,44,2023-11-07,,Hotstar
+1009,Standard,299,USA,55,2023-04-13,2023-06-18,Hotstar
+1010,Standard,199,USA,29,2023-07-21,2023-11-20,Hotstar
+1011,Standard,299,UK,47,2023-03-10,2023-06-20,Hotstar
+1012,Standard,199,USA,53,2023-06-22,,Amazon Prime
+1013,Basic,499,UK,59,2023-03-01,,Netflix
+1014,Standard,199,USA,58,2023-02-15,2023-08-10,Hotstar
+1015,Standard,199,USA,1,2023-10-06,,Amazon Prime
+1016,Basic,299,Canada,21,2023-02-11,2023-05-15,Amazon Prime
+1017,Standard,199,Canada,55,2023-12-01,,Hotstar
+1018,Standard,199,Canada,25,2023-12-13,,Hotstar
+1019,Basic,499,UK,12,2023-08-22,2024-01-07,Netflix
+1020,Premium,299,UK,51,2023-11-06,2024-01-15,Amazon Prime
+1021,Standard,199,UK,26,2023-06-14,2023-09-05,Hotstar
+1022,Premium,499,India,13,2023-10-16,,Hotstar
+1023,Premium,299,USA,57,2023-04-24,2023-06-09,Netflix
+1024,Standard,199,Canada,37,2023-12-02,,Hotstar
+1025,Premium,199,Canada,11,2023-08-31,,Netflix
+1026,Standard,299,Canada,8,2023-07-28,,Netflix
+1027,Premium,199,USA,14,2023-02-04,2023-08-15,Amazon Prime
+1028,Basic,199,USA,24,2023-03-18,2023-08-17,Netflix
+1029,Basic,199,UK,59,2023-12-11,2024-05-28,Hotstar
+1030,Premium,299,UK,29,2023-03-31,2023-07-19,Netflix
+1031,Standard,499,India,42,2023-12-02,2024-06-03,Hotstar
+1032,Premium,499,UK,36,2023-07-08,2023-12-23,Hotstar
+1033,Premium,499,USA,19,2023-06-17,2023-12-01,Hotstar
+1034,Standard,299,Canada,41,2023-04-28,2023-10-12,Amazon Prime
+1035,Basic,199,USA,7,2023-07-08,,Netflix
+1036,Standard,299,India,10,2023-05-15,2023-08-15,Netflix
+1037,Basic,299,USA,1,2023-11-22,2024-05-21,Amazon Prime
+1038,Premium,499,Canada,41,2023-11-16,2024-05-28,Netflix
+1039,Basic,499,Canada,48,2023-07-23,2024-02-06,Hotstar
+1040,Premium,199,India,59,2023-08-01,,Hotstar
+1041,Premium,499,Canada,9,2023-02-20,2023-07-24,Hotstar
+1042,Premium,299,Canada,40,2023-08-13,2023-12-16,Netflix
+1043,Basic,299,Canada,49,2023-10-04,,Amazon Prime
+1044,Basic,299,Canada,5,2023-05-21,,Netflix
+1045,Standard,499,UK,18,2023-12-07,2024-05-24,Hotstar
+1046,Standard,499,India,17,2023-02-27,2023-08-03,Amazon Prime
+1047,Basic,499,India,57,2023-04-14,,Hotstar
+1048,Premium,199,UK,14,2023-06-01,,Netflix
+1049,Standard,299,India,11,2023-02-05,2023-04-08,Hotstar
+1050,Standard,499,USA,51,2023-01-13,2023-06-29,Netflix
+1051,Basic,499,UK,41,2023-06-07,,Amazon Prime
+1052,Premium,499,UK,35,2023-02-28,,Amazon Prime
+1053,Basic,199,Canada,34,2023-11-11,,Amazon Prime
+1054,Premium,499,USA,5,2023-07-12,,Netflix
+1055,Standard,199,USA,47,2023-04-01,2023-06-17,Amazon Prime
+1056,Standard,199,India,3,2023-10-04,2024-03-31,Hotstar
+1057,Basic,499,UK,11,2023-06-27,2023-11-04,Amazon Prime
+1058,Standard,499,Canada,4,2023-09-10,2024-01-07,Netflix
+1059,Basic,299,USA,48,2023-09-13,,Hotstar
+1060,Basic,199,Canada,2,2023-03-28,,Hotstar
+1061,Premium,499,UK,3,2023-01-15,,Amazon Prime
+1062,Standard,199,India,38,2023-11-20,,Amazon Prime
+1063,Basic,499,Canada,2,2023-12-01,2024-05-03,Amazon Prime
+1064,Basic,299,Canada,26,2023-09-20,,Netflix
+1065,Premium,499,Canada,34,2023-10-11,2024-01-06,Netflix
+1066,Standard,199,USA,43,2023-04-12,,Hotstar
+1067,Basic,499,India,38,2023-02-02,,Amazon Prime
+1068,Premium,299,USA,50,2023-07-03,,Hotstar
+1069,Standard,499,Canada,23,2023-06-13,2023-08-20,Hotstar
+1070,Standard,499,USA,28,2023-11-15,,Amazon Prime
+1071,Premium,299,UK,15,2023-05-30,,Hotstar
+1072,Basic,199,Canada,40,2023-07-03,2023-10-12,Hotstar
+1073,Premium,499,Canada,49,2023-11-04,,Netflix
+1074,Standard,499,India,18,2023-02-12,,Hotstar
+1075,Premium,199,India,55,2023-04-13,,Netflix
+1076,Premium,199,USA,58,2023-09-25,,Amazon Prime
+1077,Standard,299,Canada,51,2023-07-21,,Amazon Prime
+1078,Basic,299,Canada,10,2023-06-05,,Amazon Prime
+1079,Standard,299,USA,17,2023-08-20,,Amazon Prime
+1080,Premium,499,India,13,2023-02-22,2023-07-03,Amazon Prime
+1081,Standard,299,USA,44,2023-12-01,,Hotstar
+1082,Premium,499,UK,7,2023-01-06,2023-03-04,Netflix
+1083,Basic,199,Canada,8,2023-01-24,,Amazon Prime
+1084,Standard,199,UK,18,2023-05-23,,Amazon Prime
+1085,Standard,499,Canada,29,2023-12-12,2024-02-01,Hotstar
+1086,Premium,199,UK,34,2023-10-21,,Amazon Prime
+1087,Premium,199,Canada,36,2023-12-06,,Hotstar
+1088,Basic,499,UK,59,2023-01-03,,Netflix
+1089,Standard,299,UK,45,2023-11-20,,Amazon Prime
+1090,Standard,199,Canada,54,2023-04-02,2023-07-18,Hotstar
+1091,Premium,299,UK,25,2023-12-10,2024-02-15,Amazon Prime
+1092,Premium,499,USA,26,2023-09-04,,Amazon Prime
+1093,Standard,299,Canada,31,2023-11-15,2024-02-20,Hotstar
+1094,Basic,199,India,13,2023-09-09,,Hotstar
+1095,Standard,499,UK,15,2023-07-18,,Amazon Prime
+1096,Standard,299,UK,22,2023-10-23,2024-01-03,Netflix
+1097,Basic,199,India,44,2023-05-18,2023-09-15,Amazon Prime
+1098,Basic,199,UK,37,2023-07-31,,Netflix
+1099,Premium,199,UK,3,2023-11-04,2023-12-06,Netflix
+1100,Standard,299,Canada,44,2023-08-14,,Amazon Prime
+1101,Basic,499,UK,39,2023-02-04,,Amazon Prime
+1102,Standard,299,USA,9,2023-09-07,,Netflix
+1103,Basic,199,USA,46,2023-08-22,2024-01-12,Netflix
+1104,Basic,299,UK,11,2023-10-02,,Hotstar
+1105,Basic,499,Canada,42,2023-10-15,,Netflix
+1106,Basic,199,India,1,2023-01-12,,Hotstar
+1107,Basic,299,UK,50,2023-12-01,,Hotstar
+1108,Standard,499,Canada,37,2023-08-10,2024-01-01,Netflix
+1109,Premium,499,USA,36,2023-04-27,,Netflix
+1110,Standard,199,UK,30,2023-02-04,,Hotstar
+1111,Premium,199,India,27,2023-03-12,2023-09-17,Netflix
+1112,Standard,199,Canada,8,2023-12-05,,Amazon Prime
+1113,Basic,199,UK,59,2023-06-02,2023-08-30,Netflix
+1114,Basic,199,USA,36,2023-04-26,2023-07-10,Amazon Prime
+1115,Standard,199,USA,45,2023-03-26,,Amazon Prime
+1116,Premium,299,UK,3,2023-05-17,,Hotstar
+1117,Basic,299,UK,12,2023-10-15,,Hotstar
+1118,Basic,299,Canada,24,2023-05-28,2023-10-22,Amazon Prime
+1119,Standard,299,USA,58,2023-01-16,2023-07-15,Hotstar
+1120,Basic,499,India,10,2023-08-27,2023-12-18,Netflix
+1121,Basic,199,UK,56,2023-10-21,,Amazon Prime
+1122,Standard,299,UK,36,2023-03-26,2023-10-04,Amazon Prime
+1123,Standard,499,UK,45,2023-01-02,,Hotstar
+1124,Basic,199,USA,17,2023-01-18,,Netflix
+1125,Basic,199,India,24,2023-12-18,,Netflix
+1126,Standard,199,Canada,33,2023-10-11,2024-04-19,Netflix
+1127,Premium,299,UK,14,2023-02-20,,Netflix
+1128,Standard,199,UK,13,2023-12-20,,Hotstar
+1129,Basic,499,India,6,2023-04-12,,Hotstar
+1130,Basic,199,USA,45,2023-06-11,2023-11-28,Amazon Prime
+1131,Premium,499,India,38,2023-01-31,,Netflix
+1132,Basic,299,Canada,52,2023-01-27,,Amazon Prime
+1133,Standard,499,Canada,46,2023-08-20,2024-03-02,Netflix
+1134,Basic,299,UK,3,2023-12-29,2024-06-08,Amazon Prime
+1135,Standard,299,UK,36,2023-11-02,,Hotstar
+1136,Basic,199,India,3,2023-03-11,,Netflix
+1137,Premium,199,India,8,2023-05-11,2023-06-15,Hotstar
+1138,Premium,299,India,58,2023-05-18,2023-07-19,Hotstar
+1139,Standard,199,UK,1,2023-09-28,2024-03-16,Amazon Prime
+1140,Standard,199,India,25,2023-03-14,2023-05-29,Amazon Prime
+1141,Standard,199,USA,41,2023-10-06,,Netflix
+1142,Premium,299,India,17,2023-05-14,2023-11-07,Amazon Prime
+1143,Basic,299,Canada,33,2023-02-20,,Hotstar
+1144,Premium,199,USA,35,2023-04-14,,Amazon Prime
+1145,Basic,499,UK,48,2023-12-28,,Hotstar
+1146,Premium,199,USA,22,2023-09-29,,Amazon Prime
+1147,Standard,499,India,25,2023-07-29,,Amazon Prime
+1148,Standard,299,Canada,18,2023-02-24,2023-04-19,Amazon Prime
+1149,Standard,499,Canada,20,2023-03-16,2023-05-05,Amazon Prime
+1150,Premium,499,USA,31,2023-07-28,2023-12-12,Amazon Prime
+1151,Standard,199,UK,35,2023-08-12,,Amazon Prime
+1152,Standard,199,Canada,42,2023-07-01,2023-09-29,Amazon Prime
+1153,Premium,499,India,37,2023-10-06,2023-11-29,Netflix
+1154,Basic,199,India,49,2023-04-14,2023-09-11,Amazon Prime
+1155,Premium,199,UK,19,2023-10-14,,Amazon Prime
+1156,Premium,499,USA,13,2023-05-17,,Hotstar
+1157,Premium,499,Canada,49,2023-05-05,2023-10-20,Netflix
+1158,Premium,199,India,6,2023-09-29,2023-11-02,Netflix
+1159,Premium,499,UK,42,2023-03-10,,Amazon Prime
+1160,Basic,199,UK,35,2023-06-09,2023-10-11,Hotstar
+1161,Premium,499,USA,43,2023-04-17,,Netflix
+1162,Standard,499,USA,4,2023-08-14,,Netflix
+1163,Standard,299,UK,5,2023-05-29,,Hotstar
+1164,Basic,499,USA,21,2023-12-10,2024-06-23,Netflix
+1165,Premium,199,UK,22,2023-11-16,,Amazon Prime
+1166,Standard,499,USA,29,2023-11-05,,Netflix
+1167,Basic,299,India,17,2023-09-08,,Hotstar
+1168,Premium,499,India,46,2023-04-15,,Amazon Prime
+1169,Premium,299,USA,56,2023-09-10,2024-02-09,Amazon Prime
+1170,Standard,199,UK,15,2023-02-27,,Hotstar
+1171,Basic,499,UK,54,2023-06-11,,Netflix
+1172,Basic,199,Canada,52,2023-12-21,2024-04-24,Hotstar
+1173,Premium,299,USA,4,2023-02-24,,Hotstar
+1174,Basic,299,UK,25,2023-08-23,,Netflix
+1175,Premium,499,USA,20,2023-09-22,2024-01-24,Hotstar
+1176,Premium,499,UK,2,2023-04-25,,Amazon Prime
+1177,Standard,199,Canada,57,2023-04-24,2023-08-29,Netflix
+1178,Basic,499,Canada,25,2023-03-01,2023-05-12,Netflix
+1179,Basic,299,UK,58,2023-04-11,2023-10-18,Hotstar
+1180,Standard,499,India,49,2023-11-22,,Netflix
+1181,Premium,499,UK,27,2023-09-12,2023-11-27,Hotstar
+1182,Standard,499,USA,58,2023-06-11,,Amazon Prime
+1183,Standard,299,USA,35,2023-05-10,,Netflix
+1184,Basic,499,Canada,38,2023-01-11,,Amazon Prime
+1185,Basic,499,USA,12,2023-11-08,2024-01-20,Amazon Prime
+1186,Basic,199,UK,28,2023-10-07,,Amazon Prime
+1187,Basic,299,USA,46,2023-02-21,,Netflix
+1188,Standard,199,India,22,2023-02-20,,Hotstar
+1189,Standard,199,USA,10,2023-03-17,,Hotstar
+1190,Premium,299,Canada,1,2023-10-08,,Netflix
+1191,Basic,299,USA,46,2023-08-02,2023-09-23,Hotstar
+1192,Basic,199,USA,47,2023-10-17,2023-11-30,Amazon Prime
+1193,Standard,499,India,46,2023-06-22,2023-11-11,Hotstar
+1194,Premium,299,USA,16,2023-08-21,,Netflix
+1195,Premium,499,India,2,2023-06-23,,Netflix
+1196,Standard,199,Canada,7,2023-10-03,,Netflix
+1197,Standard,499,Canada,44,2023-08-13,,Netflix
+1198,Premium,299,India,34,2023-07-19,,Hotstar
+1199,Basic,199,USA,1,2023-05-13,,Hotstar
+1200,Basic,199,UK,58,2023-11-11,,Amazon Prime
