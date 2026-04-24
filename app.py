@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as  pd
 st.set_page_config(page_title="Subscription Dashboard", layout="wide")
 
-# ---------------- LOAD DATA ----------------
-# ---------------- LOAD DATA ----------------
+
 @st.cache_data
 def load_data():
     df = pd.read_csv("multi_company_data.csv")
@@ -17,11 +16,11 @@ def load_data():
 
 df = load_data()
 
-# ✅ STORE IN SESSION STATE (for other pages like insights.py)
+
 if 'df' not in st.session_state:
     st.session_state['df'] = df
 
-# ---------------- SIDEBAR ----------------
+
 st.sidebar.title("🔍 Filters")
 
 company = st.sidebar.multiselect(
@@ -42,29 +41,29 @@ country = st.sidebar.multiselect(
     df['Country'].unique()
 )
 
-# ---------------- FILTER ----------------
+
 filtered_df = df[
     (df['Company'].isin(company)) &
     (df['Plan'].isin(plan)) &
     (df['Country'].isin(country))
 ]
 
-# ---------------- HEADER ----------------
+
 st.title("📊 Subscription Revenue Analysis Dashboard")
 
-# ---------------- KPI ----------------
+
 col1, col2, col3 = st.columns(3)
 
 col1.metric("💰 Revenue", f"₹{filtered_df['Monthly_Fee'].sum():,}")
 col2.metric("👥 Users", filtered_df['User_ID'].nunique())
 col3.metric("📉 Churn Rate", f"{round(filtered_df['Churn'].mean()*100,2)}%")
 
-# ---------------- MONTHLY TREND ----------------
+
 st.subheader("📈 Monthly Revenue Trend")
 monthly = filtered_df.groupby('Month')['Monthly_Fee'].sum()
 st.line_chart(monthly)
 
-# ---------------- 2 MONTH COMPARISON ----------------
+
 if len(monthly) >= 2:
     st.subheader("⚡ Last 2 Months Comparison")
     last_2 = monthly.tail(2)
@@ -78,7 +77,7 @@ if len(monthly) >= 2:
         delta=f"{last_2.iloc[1] - last_2.iloc[0]:,}"
     )
 
-# ---------------- COMPANY LOGIC ----------------
+
 st.subheader("🏢 Company Analysis")
 
 if len(company) == 1:
@@ -99,12 +98,12 @@ else:
     st.subheader("📊 Company Comparison")
     st.bar_chart(filtered_df.groupby('Company')['Monthly_Fee'].sum())
 
-# ---------------- QUARTERLY TABLE ----------------
+
 st.subheader("📊 Quarterly Revenue Table")
 quarter = filtered_df.groupby('Quarter')['Monthly_Fee'].sum().reset_index()
 st.dataframe(quarter, use_container_width=True)
 
-# ---------------- INSIGHTS ----------------
+
 st.subheader("🧠 Insights")
 
 if len(filtered_df) > 0:
@@ -116,4 +115,4 @@ if len(filtered_df) > 0:
 else:
     st.warning("No data available for selected filters")
 
-# ---------------- FOOTER ----------------
+
